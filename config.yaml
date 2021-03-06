@@ -1,0 +1,4 @@
+theme: "starter-academic"
+baseURL: https://binyizhang.netlify.app/
+languageCode: en-us
+title: My New Hugo Site
