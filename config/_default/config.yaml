@@ -3,16 +3,16 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Binyi Zhang # Website name
-baseurl: 'https://binyizhang.netlify.app/' # Website URL
-copyright: '© {2021} Binyi Zhang' # Footer text, e.g. '© {year} Me'
+title: Academic # Website name
+baseurl: '' # Website URL
+copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: true
+hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
